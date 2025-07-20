@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>📫 Reach me via <a href="mailto:gumeniukmich@gmail.com">Gmail</a></li>
-    <li>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1W5JVIsAwc2MCHZsIJ3WYar6Wxz96xeUA" target="_blank">CV</a></li>
+    <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1EncjKIRbIkoZQh7W_2E_ryd37jH7gImZ/view?usp=sharing" target="_blank">CV</a></li>
     <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/mykh-humeniuk/" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
@@ -60,4 +60,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishaHMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/MishaHMK/MishaHMK/output/snake.svg" alt="Snake animation" />
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/MishaHMK/MishaHMK/output/snake.svg"></object>
