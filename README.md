@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>📫 Reach me via <a href="mailto:gumeniukmich@gmail.com">Gmail</a></li>
-    <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1EncjKIRbIkoZQh7W_2E_ryd37jH7gImZ/view?usp=sharing" target="_blank">CV</a></li>
+    <li>📄 My <a href="https://drive.google.com/file/d/1EncjKIRbIkoZQh7W_2E_ryd37jH7gImZ/view?usp=sharing" target="_blank">CV</a></li>
     <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/mykh-humeniuk/" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
